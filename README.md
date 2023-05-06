@@ -8,11 +8,11 @@ I'm an undergraduate student at 🎓Shahjalal University of Science and Technolo
 <img src="https://camo.githubusercontent.com/18ce5f699367154406817e838d922e74f1d53abea421410b381a64f2c1725af9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4168337a4848376876735342322f67697068792e676966" align="center" height="200" width="" />
 </div>  
 
-# About Me  
-- 🛠️ I'm currently working on Web Application for toll management
-- 📕 I'm currently learning: NextJS, PostgreSQL,docker
+<!-- # About Me  
+- 🛠️ I'm currently working on Web Application.
+- 📕 I'm currently learning: NextJS, PostgreSQL, docker
 - ⁉️ Ask me About: React.js, FrontEnd Development
-- ✍️Passionate about learning new technologies and want to collaborate with teams.  
+- ✍️Passionate about learning new technologies and want to collaborate with teams.   -->
   
 
 
